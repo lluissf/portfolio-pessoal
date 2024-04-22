@@ -18,9 +18,6 @@ export const Footer = () => {
             <a href="https://www.instagram.com/_.luissf/">
               <i className="ri-instagram-line"></i>
             </a>
-            <a href="https://twitter.com/llittle_louis">
-              <i className="ri-twitter-line"></i>
-            </a>
           </div>
         </div>
         <div className="column">
