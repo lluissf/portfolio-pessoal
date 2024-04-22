@@ -1,23 +1,22 @@
-# Buscador de CEP
+# Meu Portfólio Pessoal
 
-Busque um CEP e veja informações sobre ele.
+Este é o meu portfólio pessoal, onde compartilho informações sobre mim, meus projetos e habilidades. Aqui você encontrará uma visão geral do meu trabalho e poderá entrar em contato comigo.
 
-## Instalação
+## Sobre Mim
 
-1. Clone o repositório.
-2. Execute o comando `npm install` para instalar as dependências.
+Eu sou o Luís Felipe, um desenvolvedor apaixonado por Programação. Tenho experiência em JavaScript e estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
-## Uso
+## Projetos Destacados
 
-1. Execute o comando `npm start` para iniciar o projeto.
-2. Acesse o projeto em `http://localhost:3000`.
+Aqui estão alguns dos meus projetos mais recentes:
 
-## Contribuição
+- [Buscador de CEP](https://github.com/lluissf/buscador-cep): Você pode encontrar informações sobre um CEP !
 
-1. Faça um fork do repositório.
-2. Crie uma branch para sua contribuição.
-3. Faça as alterações desejadas.
-4. Envie um pull request.
 
-## Licença
-Este projeto está licenciado sob a [MIT License](LICENSE).
+## Contato
+
+- Email: luis.felipe.ferreira.da.silva.if@gmail.com
+- LinkedIn: [seu perfil](https://www.linkedin.com/in/luis-felipe-ferreira-da-silva-20b6bb2bb/)
+- GitHub: [seu perfil](https://github.com/lluissf)
+
+Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou apenas para dizer oi!
