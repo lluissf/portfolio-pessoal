@@ -12,11 +12,12 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 - [Buscador de CEP](https://github.com/lluissf/buscador-cep): Você pode encontrar informações sobre um CEP !
 
+- [Lista de Tarefas](https://github.com/lluissf/lista-tarefa): Gerencie sua lista de tarefas. (Este projeto foi desenvolvido através de um [Tutorial](https://www.youtube.com/watch?v=womd8BFIbDY&list=WL&index=3&ab_channel=AsmrProg))
 
 ## Contato
 
-- Email: luis.felipe.ferreira.da.silva.if@gmail.com
-- LinkedIn: [seu perfil](https://www.linkedin.com/in/luis-felipe-ferreira-da-silva-20b6bb2bb/)
-- GitHub: [seu perfil](https://github.com/lluissf)
+- Discord: ``_.luissf``
+- LinkedIn: [Luis Felipe](https://www.linkedin.com/in/luis-felipe-ferreira-da-silva-20b6bb2bb/)
+- GitHub: [lluissf](https://github.com/lluissf)
 
 Sinta-se à vontade para entrar em contato comigo para discutir oportunidades de colaboração ou apenas para dizer oi!

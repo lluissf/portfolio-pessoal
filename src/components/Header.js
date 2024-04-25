@@ -11,9 +11,9 @@ export const Header = () => {
           <p>
             Este é o meu portfólio pessoal, onde você pode encontrar informações sobre mim e meus projetos.
           </p>
-          <a href="#about">
-          <button className="btn">Ver mais..</button>
-          </a>
+         
+          <button className="btn"> <a href="#about">Ver mais..</a></button>
+          
         </div>
         <div className="image">
           <img src={HeaderIMG} />
