@@ -12,7 +12,9 @@ Aqui estão alguns dos meus projetos mais recentes:
 
 - [Buscador de CEP](https://github.com/lluissf/buscador-cep): Você pode encontrar informações sobre um CEP !
 
-- [Lista de Tarefas](https://github.com/lluissf/lista-tarefa): Gerencie sua lista de tarefas. (Este projeto foi desenvolvido através de um [Tutorial](https://www.youtube.com/watch?v=womd8BFIbDY&list=WL&index=3&ab_channel=AsmrProg))
+- [Lista de Tarefas](https://github.com/lluissf/lista-tarefa): Gerencie sua lista de tarefas.
+
+- [Portfólio Pessoal](https://github.com/lluissf/portfolio-pessoal): Onde apresento meus projetos e habilidades. (Este projeto foi desenvolvido através de um [Tutorial](https://www.youtube.com/watch?v=womd8BFIbDY&list=WL&index=3&ab_channel=AsmrProg))
 
 ## Contato
 
